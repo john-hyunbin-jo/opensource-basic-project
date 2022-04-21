@@ -1,0 +1,11 @@
+﻿  store_core.c
+c:\users\fpemq\onedrive\바탕 화면\오픈소스 중간\headers\store_core.c(36): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_io.h(441): note: 'access' 선언을 참조하십시오.
+c:\users\fpemq\onedrive\바탕 화면\오픈소스 중간\headers\store_core.c(54): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_io.h(441): note: 'access' 선언을 참조하십시오.
+c:\users\fpemq\onedrive\바탕 화면\오픈소스 중간\headers\store_core.c(117): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+c:\users\fpemq\onedrive\바탕 화면\오픈소스 중간\headers\store_core.c(165): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\fpemq\onedrive\바탕 화면\오픈소스 중간\headers\store_core.c(240): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+  StoreManager.vcxproj -> C:\Users\fpemq\OneDrive\바탕 화면\오픈소스 중간\x64\Debug\StoreManager.exe
