@@ -10,7 +10,7 @@ BOOL set_cursor_pos(int x, int y)
 void pause(char* msg)
 {
 	if (msg == NULL)
-		printf("¾Æ¹« Å°³ª ´­·¯ °è¼ÓÇÏ¼¼¿ä...");
+		printf("ì•„ë¬´ í‚¤ë‚˜ ëˆŒëŸ¬ ê³„ì†í•˜ì„¸ìš”...");
 	else
 		printf("%s", msg);
 	system("PAUSE > NUL");
